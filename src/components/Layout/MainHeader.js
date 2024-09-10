@@ -1,5 +1,6 @@
-import CartButton from '../Cart/CartButton';
-import classes from './MainHeader.module.css';
+import CartButton from "../Cart/CartButton";
+import classes from "./MainHeader.module.css";
+import { useDispatch } from "react-redux";
 
 const MainHeader = (props) => {
   return (
