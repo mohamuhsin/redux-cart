@@ -7,3 +7,6 @@ This project demonstrates:
 # How We Built Step By Step:
 > We add the redux store with two slice, 'ui-slice' toggle visibility of the cart on the UI and 'cart-slice' to manage state of the cart.
 
+# How We Built Step By Step:
+> We add the redux store with two slice, 'ui-slice' toggle visibility of the cart on the UI and 'cart-slice' to manage state of the cart.
+
